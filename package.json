@@ -1,22 +1,14 @@
 {
-  "name": "aula-de-nodejs--meu-primeiro-servidor",
+  "name": "first-node-server",
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/joaovitorfirme123/aula-de-nodejs--Meu-Primeiro-servidor.git"
-  },
   "keywords": [],
   "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/joaovitorfirme123/aula-de-nodejs--Meu-Primeiro-servidor/issues"
-  },
-  "homepage": "https://github.com/joaovitorfirme123/aula-de-nodejs--Meu-Primeiro-servidor#readme",
+  "license": "MIT",
   "dependencies": {
     "express": "^5.1.0"
   }
